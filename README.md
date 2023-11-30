@@ -1,4 +1,3 @@
-# Credit_card_default_prediction
 # Credit Card Default Prediction
 
 This repository contains code and resources for a Credit Card Default Prediction model. Credit card default prediction is a critical task for financial institutions to assess and manage credit risk effectively. This project aims to build a machine learning model that can predict whether a credit card customer is likely to default on their payments.
